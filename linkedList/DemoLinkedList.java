@@ -3,8 +3,8 @@ public class DemoLinkedList {
         LinkedList list = new LinkedList();
 
         // Insert elements
-        list.insertAtEnd("Tahtia");
         list.insertAtBeginning("Siti");
+        list.insertAtEnd("Tahtia");
         list.insertAtEnd("Ainun");
         list.insertAtEnd("Zahra");
 
